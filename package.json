@@ -1,0 +1,11 @@
+{
+  "name": "time-parser",
+  "version": "1.0.0",
+  "description": "This is a small project where I create a REST API to get the latest stories from https://time.com.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
